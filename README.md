@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tini4
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on /
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? tilen.jurican@gmail.com
 
 <!---
